@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EditableTable-React/static/css/main.cf19aa85.chunk.css",
+    "main.js": "/EditableTable-React/static/js/main.76056fe2.chunk.js",
+    "main.js.map": "/EditableTable-React/static/js/main.76056fe2.chunk.js.map",
+    "runtime-main.js": "/EditableTable-React/static/js/runtime-main.4b6e435c.js",
+    "runtime-main.js.map": "/EditableTable-React/static/js/runtime-main.4b6e435c.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/EditableTable-React/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.b311b001.chunk.js": "/EditableTable-React/static/js/2.b311b001.chunk.js",
+    "static/js/2.b311b001.chunk.js.map": "/EditableTable-React/static/js/2.b311b001.chunk.js.map",
+    "index.html": "/EditableTable-React/index.html",
+    "precache-manifest.3a9f1c9d49742f12c6d944dce1b6791a.js": "/EditableTable-React/precache-manifest.3a9f1c9d49742f12c6d944dce1b6791a.js",
+    "service-worker.js": "/EditableTable-React/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/EditableTable-React/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.cf19aa85.chunk.css.map": "/EditableTable-React/static/css/main.cf19aa85.chunk.css.map",
+    "static/js/2.b311b001.chunk.js.LICENSE": "/EditableTable-React/static/js/2.b311b001.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6e435c.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.b311b001.chunk.js",
+    "static/css/main.cf19aa85.chunk.css",
+    "static/js/main.76056fe2.chunk.js"
+  ]
+}
